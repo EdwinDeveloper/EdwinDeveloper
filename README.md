@@ -11,6 +11,7 @@ JavaScript, ReactJS, NodeJS, Knex
 Python, Django
 PostgreSQL, Redis
 Docker, AWS, and much more!
+
 💡 Open Source Projects:
 Take a look at my open-source projects—they're free to use and might just be the solution you're looking for in your next endeavor.
 
